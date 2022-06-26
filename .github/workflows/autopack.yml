@@ -1,0 +1,26 @@
+name: 自动打包
+on:
+  push:
+    branches: [ "tapcraft" ]
+  pull_request:
+    branches: [ "tapcraft" ]
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: 打包 mcpack
+        run: zip -r SlimefunBedrockRP.mcpack ./SlimefunBedrockRP/*
+      
+      - name: 打包 Geyser Mappings
+        run: zip -r mappings.zip ./GeyserCustomMappings/*
+        
+      - name: 上传工件
+        uses: actions/upload-artifact@v2
+        with:
+          name: SlimefunBedrockRP
+          path: |
+            ./SlimefunBedrockRP.mcpack
+            ./mappings.zip
