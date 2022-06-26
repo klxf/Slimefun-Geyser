@@ -1609,7 +1609,7 @@
 		},
 		"bbq_bacon_wrapped_hot_dog": {
 			"textures": [
-				"textures/items/exotic_garden/foods/hot_dog_bbq_bacon_wrapped"
+				"textures/items/exotic_garden/foods/bbq_bacon_wrapped_hot_dog"
 			]
 		},
 		"bbq_double_bacon_wrapped_hot_dog_in_a_tortilla_with_cheese": {
@@ -2712,9 +2712,444 @@
 				"textures/items/exotic_garden/fruits/yummy_fruit"
 			]
 		},
-		"yummy_fruit_bush": {
+		"coal_essence": {
 			"textures": [
-				"textures/items/exotic_garden/fruits/yummy_fruit_bush"
+				"textures/items/exotic_garden/plants/coal_essence"
+			]
+		},
+		"diamond_essence": {
+			"textures": [
+				"textures/items/exotic_garden/plants/diamond_essence"
+			]
+		},
+		"emerald_essence": {
+			"textures": [
+				"textures/items/exotic_garden/plants/emerald_essence"
+			]
+		},
+		"ender_essence": {
+			"textures": [
+				"textures/items/exotic_garden/plants/ender_essence"
+			]
+		},
+		"essence_aluminum": {
+			"textures": [
+				"textures/items/exotic_garden/plants/essence_aluminum"
+			]
+		},
+		"essence_copper": {
+			"textures": [
+				"textures/items/exotic_garden/plants/essence_copper"
+			]
+		},
+		"essence_lead": {
+			"textures": [
+				"textures/items/exotic_garden/plants/essence_lead"
+			]
+		},
+		"essence_silver": {
+			"textures": [
+				"textures/items/exotic_garden/plants/essence_silver"
+			]
+		},
+		"essence_tin": {
+			"textures": [
+				"textures/items/exotic_garden/plants/essence_tin"
+			]
+		},
+		"glowstone_essence": {
+			"textures": [
+				"textures/items/exotic_garden/plants/glowstone_essence"
+			]
+		},
+		"gold_essence": {
+			"textures": [
+				"textures/items/exotic_garden/plants/gold_essence"
+			]
+		},
+		"iron_essence": {
+			"textures": [
+				"textures/items/exotic_garden/plants/iron_essence"
+			]
+		},
+		"lapis_essence": {
+			"textures": [
+				"textures/items/exotic_garden/plants/lapis_essence"
+			]
+		},
+		"obsidian_essence": {
+			"textures": [
+				"textures/items/exotic_garden/plants/obsidian_essence"
+			]
+		},
+		"quartz_essence": {
+			"textures": [
+				"textures/items/exotic_garden/plants/quartz_essence"
+			]
+		},
+		"redstone_essence": {
+			"textures": [
+				"textures/items/exotic_garden/plants/redstone_essence"
+			]
+		},
+		"slime_essence": {
+			"textures": [
+				"textures/items/exotic_garden/plants/slime_essence"
+			]
+		},
+		"dirt_essence": {
+			"textures": [
+				"textures/items/exotic_garden/plants/dirt_essence"
+			]
+		},
+		"netherite_essence": {
+			"textures": [
+				"textures/items/exotic_garden/plants/netherite_essence"
+			]
+		},
+		"coal_plant": {
+			"textures": [
+				"textures/items/exotic_garden/plants/coal_plant"
+			]
+		},
+		"diamond_plant": {
+			"textures": [
+				"textures/items/exotic_garden/plants/diamond_plant"
+			]
+		},
+		"emerald_plant": {
+			"textures": [
+				"textures/items/exotic_garden/plants/emerald_plant"
+			]
+		},
+		"ender_plant": {
+			"textures": [
+				"textures/items/exotic_garden/plants/ender_plant"
+			]
+		},
+		"plant_aluminum": {
+			"textures": [
+				"textures/items/exotic_garden/plants/plant_aluminum"
+			]
+		},
+		"plant_copper": {
+			"textures": [
+				"textures/items/exotic_garden/plants/plant_copper"
+			]
+		},
+		"plant_lead": {
+			"textures": [
+				"textures/items/exotic_garden/plants/plant_lead"
+			]
+		},
+		"plant_silver": {
+			"textures": [
+				"textures/items/exotic_garden/plants/plant_silver"
+			]
+		},
+		"plant_tin": {
+			"textures": [
+				"textures/items/exotic_garden/plants/plant_tin"
+			]
+		},
+		"glowstone_plant": {
+			"textures": [
+				"textures/items/exotic_garden/plants/glowstone_plant"
+			]
+		},
+		"gold_plant": {
+			"textures": [
+				"textures/items/exotic_garden/plants/gold_plant"
+			]
+		},
+		"iron_plant": {
+			"textures": [
+				"textures/items/exotic_garden/plants/iron_plant"
+			]
+		},
+		"lapis_plant": {
+			"textures": [
+				"textures/items/exotic_garden/plants/lapis_plant"
+			]
+		},
+		"obsidian_plant": {
+			"textures": [
+				"textures/items/exotic_garden/plants/obsidian_plant"
+			]
+		},
+		"quartz_plant": {
+			"textures": [
+				"textures/items/exotic_garden/plants/quartz_plant"
+			]
+		},
+		"redstone_plant": {
+			"textures": [
+				"textures/items/exotic_garden/plants/redstone_plant"
+			]
+		},
+		"slime_plant": {
+			"textures": [
+				"textures/items/exotic_garden/plants/slime_plant"
+			]
+		},
+		"dirt_plant": {
+			"textures": [
+				"textures/items/exotic_garden/plants/dirt_plant"
+			]
+		},
+		"netherite_plant": {
+			"textures": [
+				"textures/items/exotic_garden/plants/netherite_plant"
+			]
+		},
+		"oak_chest": {
+			"textures": [
+				"textures/items/exotic_garden/plants/oak_chest"
+			]
+		},
+		"birch_chest": {
+			"textures": [
+				"textures/items/private_storage/birch_chest"
+			]
+		},
+		"spruce_chest": {
+			"textures": [
+				"textures/items/private_storage/spruce_chest"
+			]
+		},
+		"jungle_chest": {
+			"textures": [
+				"textures/items/private_storage/jungle_chest"
+			]
+		},
+		"acacia_chest": {
+			"textures": [
+				"textures/items/private_storage/acacia_chest"
+			]
+		},
+		"dark_oak_chest": {
+			"textures": [
+				"textures/items/private_storage/dark_oak_chest"
+			]
+		},
+		"iron_chest": {
+			"textures": [
+				"textures/items/private_storage/iron_chest"
+			]
+		},
+		"golden_chest": {
+			"textures": [
+				"textures/items/private_storage/golden_chest"
+			]
+		},
+		"diamond_chest": {
+			"textures": [
+				"textures/items/private_storage/diamond_chest"
+			]
+		},
+		"emerald_chest": {
+			"textures": [
+				"textures/items/private_storage/emerald_chest"
+			]
+		},
+		"obsidian_chest": {
+			"textures": [
+				"textures/items/private_storage/obsidian_chest"
+			]
+		},
+		"steel_chest": {
+			"textures": [
+				"textures/items/private_storage/steel_chest"
+			]
+		},
+		"private_safe_oak": {
+			"textures": [
+				"textures/items/exotic_garden/plants/oak_chest"
+			]
+		},
+		"private_safe_birch": {
+			"textures": [
+				"textures/items/private_storage/birch_chest"
+			]
+		},
+		"private_safe_spruce": {
+			"textures": [
+				"textures/items/private_storage/spruce_chest"
+			]
+		},
+		"private_safe_jungle": {
+			"textures": [
+				"textures/items/private_storage/jungle_chest"
+			]
+		},
+		"private_safe_acacia": {
+			"textures": [
+				"textures/items/private_storage/acacia_chest"
+			]
+		},
+		"private_safe_dark_oak": {
+			"textures": [
+				"textures/items/private_storage/dark_oak_chest"
+			]
+		},
+		"private_safe_iron": {
+			"textures": [
+				"textures/items/private_storage/iron_chest"
+			]
+		},
+		"private_safe_gold": {
+			"textures": [
+				"textures/items/private_storage/golden_chest"
+			]
+		},
+		"private_safe_diamond": {
+			"textures": [
+				"textures/items/private_storage/diamond_chest"
+			]
+		},
+		"private_safe_emerald": {
+			"textures": [
+				"textures/items/private_storage/emerald_chest"
+			]
+		},
+		"private_safe_obsidian": {
+			"textures": [
+				"textures/items/private_storage/obsidian_chest"
+			]
+		},
+		"private_safe_steel": {
+			"textures": [
+				"textures/items/private_storage/steel_chest"
+			]
+		},
+		"hotbar_pet_pig": {
+			"textures": [
+				"textures/items/hotbar_pets/hotbar_pet_pig"
+			]
+		},
+		"hotbar_pet_chicken": {
+			"textures": [
+				"textures/items/hotbar_pets/hotbar_pet_chicken"
+			]
+		},
+		"hotbar_pet_mooshroom": {
+			"textures": [
+				"textures/items/hotbar_pets/hotbar_pet_mooshroom"
+			]
+		},
+		"hotbar_pet_cow": {
+			"textures": [
+				"textures/items/hotbar_pets/hotbar_pet_cow"
+			]
+		},
+		"hotbar_pet_golden_cow": {
+			"textures": [
+				"textures/items/hotbar_pets/hotbar_pet_golden_cow"
+			]
+		},
+		"hotbar_pet_fish": {
+			"textures": [
+				"textures/items/hotbar_pets/hotbar_pet_fish"
+			]
+		},
+		"hotbar_pet_squid": {
+			"textures": [
+				"textures/items/hotbar_pets/hotbar_pet_squid"
+			]
+		},
+		"hotbar_pet_rabbit": {
+			"textures": [
+				"textures/items/hotbar_pets/hotbar_pet_rabbit"
+			]
+		},
+		"hotbar_pet_dolphin": {
+			"textures": [
+				"textures/items/hotbar_pets/hotbar_pet_dolphin"
+			]
+		},
+		"hotbar_pet_panda": {
+			"textures": [
+				"textures/items/hotbar_pets/hotbar_pet_panda"
+			]
+		},
+		"hotbar_pet_iron_golem": {
+			"textures": [
+				"textures/items/hotbar_pets/hotbar_pet_iron_golem"
+			]
+		},
+		"hotbar_pet_slime": {
+			"textures": [
+				"textures/items/hotbar_pets/hotbar_pet_slime"
+			]
+		},
+		"hotbar_pet_spider": {
+			"textures": [
+				"textures/items/hotbar_pets/hotbar_pet_spider"
+			]
+		},
+		"hotbar_pet_ghast": {
+			"textures": [
+				"textures/items/hotbar_pets/hotbar_pet_ghast"
+			]
+		},
+		"hotbar_pet_shulker": {
+			"textures": [
+				"textures/items/hotbar_pets/hotbar_pet_shulker"
+			]
+		},
+		"hotbar_pet_phantom": {
+			"textures": [
+				"textures/items/hotbar_pets/hotbar_pet_phantom"
+			]
+		},
+		"hotbar_pet_ender_man": {
+			"textures": [
+				"textures/items/hotbar_pets/hotbar_pet_ender_man"
+			]
+		},
+		"hotbar_pet_magma_cube": {
+			"textures": [
+				"textures/items/hotbar_pets/hotbar_pet_magma_cube"
+			]
+		},
+		"hotbar_pet_blaze": {
+			"textures": [
+				"textures/items/hotbar_pets/hotbar_pet_blaze"
+			]
+		},
+		"hotbar_pet_ender_chest": {
+			"textures": [
+				"textures/items/hotbar_pets/hotbar_pet_ender_chest"
+			]
+		},
+		"hotbar_pet_workbench": {
+			"textures": [
+				"textures/items/hotbar_pets/hotbar_pet_workbench"
+			]
+		},
+		"hotbar_pet_purplicious_cow": {
+			"textures": [
+				"textures/items/hotbar_pets/hotbar_pet_purplicious_cow"
+			]
+		},
+		"hotbar_pet_mrcookieslime": {
+			"textures": [
+				"textures/items/hotbar_pets/hotbar_pet_mrcookieslime"
+			]
+		},
+		"hotbar_pet_patriot": {
+			"textures": [
+				"textures/items/hotbar_pets/hotbar_pet_patriot"
+			]
+		},
+		"hotbar_pet_walshrus": {
+			"textures": [
+				"textures/items/hotbar_pets/hotbar_pet_walshrus"
+			]
+		},
+		"": {
+			"textures": [
+				"textures/items/hotbar_pets/hotbar_pet_eyamaz"
 			]
 		},
 		"battery": {

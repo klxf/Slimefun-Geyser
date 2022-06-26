@@ -1214,7 +1214,7 @@
 				"texture_size": 16
 			},
 			{
-				"name": "curry_leaf_plant",
+				"name": "curry_leaf_bush",
 				"custom_model_data": 2200997,
 				"texture_size": 16
 			},
@@ -1642,6 +1642,16 @@
 				"name": "red_bell_pepper_bush",
 				"custom_model_data": 2201172,
 				"texture_size": 16
+			},
+			{
+				"name": "dirt_plant",
+				"custom_model_data": 2201177,
+				"texture_size": 16
+			},
+			{
+				"name": "netherite_plant",
+				"custom_model_data": 2201179,
+				"texture_size": 16
 			}
 		],
 		"minecraft:wooden_hoe": [
@@ -1735,6 +1745,16 @@
 			{
 				"name": "slime_essence",
 				"custom_model_data": 2201071,
+				"texture_size": 16
+			},
+			{
+				"name": "dirt_essence",
+				"custom_model_data": 2201178,
+				"texture_size": 16
+			},
+			{
+				"name": "netherite_essence",
+				"custom_model_data": 2201180,
 				"texture_size": 16
 			}
 		],

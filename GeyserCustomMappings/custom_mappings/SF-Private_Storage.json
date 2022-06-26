@@ -1,0 +1,127 @@
+{
+	"format_version": "1.0.0",
+	"items": {
+		"minecraft:player_head": [
+			{
+				"name": "oak_chest",
+				"custom_model_data": 3000000,
+				"texture_size": 32
+			},
+			{
+				"name": "birch_chest",
+				"custom_model_data": 3000001,
+				"texture_size": 32
+			},
+			{
+				"name": "spruce_chest",
+				"custom_model_data": 3000002,
+				"texture_size": 32
+			},
+			{
+				"name": "jungle_chest",
+				"custom_model_data": 3000003,
+				"texture_size": 32
+			},
+			{
+				"name": "acacia_chest",
+				"custom_model_data": 3000004,
+				"texture_size": 32
+			},
+			{
+				"name": "dark_oak_chest",
+				"custom_model_data": 3000005,
+				"texture_size": 32
+			},
+			{
+				"name": "iron_chest",
+				"custom_model_data": 3000006,
+				"texture_size": 32
+			},
+			{
+				"name": "golden_chest",
+				"custom_model_data": 3000007,
+				"texture_size": 32
+			},
+			{
+				"name": "diamond_chest",
+				"custom_model_data": 3000008,
+				"texture_size": 32
+			},
+			{
+				"name": "emerald_chest",
+				"custom_model_data": 3000009,
+				"texture_size": 32
+			},
+			{
+				"name": "obsidian_chest",
+				"custom_model_data": 3000010,
+				"texture_size": 32
+			},
+			{
+				"name": "steel_chest",
+				"custom_model_data": 3000011,
+				"texture_size": 32
+			},
+			{
+				"name": "private_safe_oak",
+				"custom_model_data": 3000012,
+				"texture_size": 32
+			},
+			{
+				"name": "private_safe_birch",
+				"custom_model_data": 3000013,
+				"texture_size": 32
+			},
+			{
+				"name": "private_safe_spruce",
+				"custom_model_data": 3000014,
+				"texture_size": 32
+			},
+			{
+				"name": "private_safe_jungle",
+				"custom_model_data": 3000015,
+				"texture_size": 32
+			},
+			{
+				"name": "private_safe_acacia",
+				"custom_model_data": 3000016,
+				"texture_size": 32
+			},
+			{
+				"name": "private_safe_dark_oak",
+				"custom_model_data": 3000017,
+				"texture_size": 32
+			},
+			{
+				"name": "private_safe_iron",
+				"custom_model_data": 3000018,
+				"texture_size": 32
+			},
+			{
+				"name": "private_safe_gold",
+				"custom_model_data": 3000019,
+				"texture_size": 32
+			},
+			{
+				"name": "private_safe_diamond",
+				"custom_model_data": 3000020,
+				"texture_size": 32
+			},
+			{
+				"name": "private_safe_emerald",
+				"custom_model_data": 3000021,
+				"texture_size": 32
+			},
+			{
+				"name": "private_safe_obsidian",
+				"custom_model_data": 3000022,
+				"texture_size": 32
+			},
+			{
+				"name": "",
+				"custom_model_data": 3000023,
+				"texture_size": 32
+			}
+		]
+	}
+}

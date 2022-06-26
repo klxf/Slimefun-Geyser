@@ -1,0 +1,137 @@
+{
+	"format_version": "1.0.0",
+	"items": {
+		"minecraft:player_head": [
+			{
+				"name": "hotbar_pet_pig",
+				"custom_model_data": 3100000,
+				"texture_size": 32
+			},
+			{
+				"name": "hotbar_pet_chicken",
+				"custom_model_data": 3100001,
+				"texture_size": 32
+			},
+			{
+				"name": "hotbar_pet_mooshroom",
+				"custom_model_data": 3100002,
+				"texture_size": 32
+			},
+			{
+				"name": "hotbar_pet_cow",
+				"custom_model_data": 3100003,
+				"texture_size": 32
+			},
+			{
+				"name": "hotbar_pet_golden_cow",
+				"custom_model_data": 3100004,
+				"texture_size": 32
+			},
+			{
+				"name": "hotbar_pet_fish",
+				"custom_model_data": 3100005,
+				"texture_size": 32
+			},
+			{
+				"name": "hotbar_pet_squid",
+				"custom_model_data": 3100006,
+				"texture_size": 32
+			},
+			{
+				"name": "hotbar_pet_rabbit",
+				"custom_model_data": 3100007,
+				"texture_size": 32
+			},
+			{
+				"name": "hotbar_pet_dolphin",
+				"custom_model_data": 3100008,
+				"texture_size": 32
+			},
+			{
+				"name": "hotbar_pet_panda",
+				"custom_model_data": 3100009,
+				"texture_size": 32
+			},
+			{
+				"name": "hotbar_pet_iron_golem",
+				"custom_model_data": 3100010,
+				"texture_size": 32
+			},
+			{
+				"name": "hotbar_pet_slime",
+				"custom_model_data": 3100011,
+				"texture_size": 32
+			},
+			{
+				"name": "hotbar_pet_spider",
+				"custom_model_data": 3100012,
+				"texture_size": 32
+			},
+			{
+				"name": "hotbar_pet_ghast",
+				"custom_model_data": 3100013,
+				"texture_size": 32
+			},
+			{
+				"name": "hotbar_pet_shulker",
+				"custom_model_data": 3100014,
+				"texture_size": 32
+			},
+			{
+				"name": "hotbar_pet_phantom",
+				"custom_model_data": 3100015,
+				"texture_size": 32
+			},
+			{
+				"name": "hotbar_pet_ender_man",
+				"custom_model_data": 3100016,
+				"texture_size": 32
+			},
+			{
+				"name": "hotbar_pet_magma_cube",
+				"custom_model_data": 3100018,
+				"texture_size": 32
+			},
+			{
+				"name": "hotbar_pet_blaze",
+				"custom_model_data": 3100019,
+				"texture_size": 32
+			},
+			{
+				"name": "hotbar_pet_ender_chest",
+				"custom_model_data": 3100024,
+				"texture_size": 32
+			},
+			{
+				"name": "hotbar_pet_workbench",
+				"custom_model_data": 3100025,
+				"texture_size": 32
+			},
+			{
+				"name": "hotbar_pet_purplicious_cow",
+				"custom_model_data": 3100026,
+				"texture_size": 32
+			},
+			{
+				"name": "hotbar_pet_mrcookieslime",
+				"custom_model_data": 3100027,
+				"texture_size": 32
+			},
+			{
+				"name": "hotbar_pet_patriot",
+				"custom_model_data": 3100028,
+				"texture_size": 32
+			},
+			{
+				"name": "hotbar_pet_walshrus",
+				"custom_model_data": 3100029,
+				"texture_size": 32
+			},
+			{
+				"name": "hotbar_pet_eyamaz",
+				"custom_model_data": 3100030,
+				"texture_size": 32
+			}
+		]
+	}
+}
