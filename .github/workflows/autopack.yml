@@ -12,15 +12,21 @@ jobs:
       - uses: actions/checkout@v3
       
       - name: 打包 mcpack
-        run: zip -r SlimefunBedrockRP.mcpack ./SlimefunBedrockRP/*
+        run: |
+          cd ./SlimefunBedrockRP
+          zip -r SlimefunBedrockRP.mcpack ./*
+          cd ../
       
       - name: 打包 Geyser Mappings
-        run: zip -r mappings.zip ./GeyserCustomMappings/*
+        run: |
+          cd ./GeyserCustomMappings
+          zip -r mappings.zip ./*
+          cd ../
         
       - name: 上传工件
         uses: actions/upload-artifact@v2
         with:
           name: SlimefunBedrockRP
           path: |
-            ./SlimefunBedrockRP.mcpack
-            ./mappings.zip
+            ./SlimefunBedrockRP/SlimefunBedrockRP.mcpack
+            ./GeyserCustomMappings/mappings.zip
