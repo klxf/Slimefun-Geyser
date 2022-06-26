@@ -1197,7 +1197,7 @@
 				"textures/items/exotic_garden/foods/blueberry_pie"
 			]
 		},
-		"elderberry_sandwich": {
+		"elderberry_jelly_sandwich": {
 			"textures": [
 				"textures/items/exotic_garden/foods/elderberry_sandwich"
 			]
@@ -1852,9 +1852,9 @@
 				"textures/items/exotic_garden/drinks/wine"
 			]
 		},
-		"lemon_ice_tea": {
+		"lemon_iced_tea": {
 			"textures": [
-				"textures/items/exotic_garden/drinks/lemon_ice_tea"
+				"textures/items/exotic_garden/drinks/lemon_iced_tea"
 			]
 		},
 		"raspberry_iced_tea": {
@@ -1910,6 +1910,806 @@
 		"pineapple_smoothie": {
 			"textures": [
 				"textures/items/exotic_garden/drinks/pineapple_smoothie"
+			]
+		},
+		"almond": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/almond"
+			]
+		},
+		"almond_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/almond_bush"
+			]
+		},
+		"apple": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/apple"
+			]
+		},
+		"apple_oak_sapling": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/apple_oak_sapling"
+			]
+		},
+		"aubergine": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/aubergine"
+			]
+		},
+		"aubergine_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/aubergine_bush"
+			]
+		},
+		"avocado": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/avocado"
+			]
+		},
+		"avocado_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/avocado_bush"
+			]
+		},
+		"banana": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/banana"
+			]
+		},
+		"banana_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/banana_bush"
+			]
+		},
+		"blackberry": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/blackberry"
+			]
+		},
+		"blackberry_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/blackberry_bush"
+			]
+		},
+		"black_pepper": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/black_pepper"
+			]
+		},
+		"black_pepper_plant": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/black_pepper_plant"
+			]
+		},
+		"blueberry": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/blueberry"
+			]
+		},
+		"blueberry_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/blueberry_bush"
+			]
+		},
+		"blue_corn": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/blue_corn"
+			]
+		},
+		"blue_corn_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/blue_corn_bush"
+			]
+		},
+		"blue_pumpkin": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/blue_pumpkin"
+			]
+		},
+		"blue_pumpkin_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/blue_pumpkin_bush"
+			]
+		},
+		"cabbage": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/cabbage"
+			]
+		},
+		"cabbage_plant": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/cabbage_plant"
+			]
+		},
+		"carolina_reaper_chili": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/carolina_reaper_chili"
+			]
+		},
+		"carolina_reaper_chili_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/carolina_reaper_chili_bush"
+			]
+		},
+		"cauliflower": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/cauliflower"
+			]
+		},
+		"cauliflower_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/cauliflower_bush"
+			]
+		},
+		"cherry": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/cherry"
+			]
+		},
+		"cherry_sapling": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/cherry_sapling"
+			]
+		},
+		"chipotle_chili": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/chipotle_chili"
+			]
+		},
+		"chipotle_chili_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/chipotle_chili_bush"
+			]
+		},
+		"chomper_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/chomper_bush"
+			]
+		},
+		"cilantro": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/cilantro"
+			]
+		},
+		"cilantro_plant": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/cilantro_plant"
+			]
+		},
+		"coconut": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/coconut"
+			]
+		},
+		"coconut_sapling": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/coconut_sapling"
+			]
+		},
+		"corn": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/corn"
+			]
+		},
+		"corn_plant": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/corn_plant"
+			]
+		},
+		"cotton": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/cotton"
+			]
+		},
+		"cotton_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/cotton_bush"
+			]
+		},
+		"cowberry": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/cowberry"
+			]
+		},
+		"cowberry_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/cowberry_bush"
+			]
+		},
+		"cranberry": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/cranberry"
+			]
+		},
+		"cranberry_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/cranberry_bush"
+			]
+		},
+		"curry_leaf": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/curry_leaf_plant"
+			]
+		},
+		"curry_leaf_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/curry_leaf_plant_bush"
+			]
+		},
+		"demon_melon": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/demon_melon"
+			]
+		},
+		"demon_melon_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/demon_melon_bush"
+			]
+		},
+		"dragon_fruit": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/dragon_fruit"
+			]
+		},
+		"dragon_fruit_sappling": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/dragon_fruit_sappling"
+			]
+		},
+		"durian": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/durian"
+			]
+		},
+		"durian_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/durian_bush"
+			]
+		},
+		"elderberry": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/elderberry"
+			]
+		},
+		"elderberry_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/elderberry_bush"
+			]
+		},
+		"fig": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/fig"
+			]
+		},
+		"fig_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/fig_bush"
+			]
+		},
+		"garlic": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/garlic"
+			]
+		},
+		"garlic_plant": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/garlic_plant"
+			]
+		},
+		"ginger": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/ginger"
+			]
+		},
+		"ginger_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/ginger_bush"
+			]
+		},
+		"ginseng_baby": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/ginseng_baby"
+			]
+		},
+		"ginseng_baby_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/ginseng_baby_bush"
+			]
+		},
+		"gooseberry": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/gooseberry"
+			]
+		},
+		"gooseberry_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/gooseberry_bush"
+			]
+		},
+		"grape": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/grape"
+			]
+		},
+		"grape_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/grape_bush"
+			]
+		},
+		"grass_seeds": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/grass_seeds"
+			]
+		},
+		"green_durian": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/green_durian"
+			]
+		},
+		"green_durian_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/green_durian_bush"
+			]
+		},
+		"habanero_chili": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/habanero_chili"
+			]
+		},
+		"habanero_chili_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/habanero_chili_bush"
+			]
+		},
+		"hazelnut": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/hazelnut"
+			]
+		},
+		"hazelnut_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/hazelnut_bush"
+			]
+		},
+		"honeydew_melon": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/honeydew_melon"
+			]
+		},
+		"honeydew_melon_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/honeydew_melon_bush"
+			]
+		},
+		"jalapeno_chili": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/jalapeno_chili"
+			]
+		},
+		"jalapeno_chili_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/jalapeno_chili_bush"
+			]
+		},
+		"japanese_pumpkin": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/japanese_pumpkin"
+			]
+		},
+		"japanese_pumpkin_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/japanese_pumpkin_bush"
+			]
+		},
+		"kiwi": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/kiwi"
+			]
+		},
+		"kiwi_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/kiwi_bush"
+			]
+		},
+		"kohlrabi": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/kohlrabi"
+			]
+		},
+		"kohlrabi_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/kohlrabi_bush"
+			]
+		},
+		"leek": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/leek"
+			]
+		},
+		"leek_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/leek_bush"
+			]
+		},
+		"lemon": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/lemon"
+			]
+		},
+		"lemon_sapling": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/lemon_sapling"
+			]
+		},
+		"lettuce": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/lettuce"
+			]
+		},
+		"lettuce_plant": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/lettuce_plant"
+			]
+		},
+		"lime": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/lime"
+			]
+		},
+		"lime_sapling": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/lime_sapling"
+			]
+		},
+		"lychee": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/lychee"
+			]
+		},
+		"lychee_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/lychee_bush"
+			]
+		},
+		"mustard_seed": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/mustard_seed"
+			]
+		},
+		"mustard_seed_plant": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/mustard_seed_plant"
+			]
+		},
+		"olive": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/olive"
+			]
+		},
+		"olive_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/olive_bush"
+			]
+		},
+		"onion": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/onion"
+			]
+		},
+		"onion_plant": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/onion_plant"
+			]
+		},
+		"orange": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/orange"
+			]
+		},
+		"orange_sapling": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/orange_sapling"
+			]
+		},
+		"paddy": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/paddy"
+			]
+		},
+		"paddy_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/paddy_bush"
+			]
+		},
+		"papaya": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/papaya"
+			]
+		},
+		"papaya_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/papaya_bush"
+			]
+		},
+		"passionfruit": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/passionfruit"
+			]
+		},
+		"passionfruit_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/passionfruit_bush"
+			]
+		},
+		"peach_sapling": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/peach_sapling"
+			]
+		},
+		"peach": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/peach"
+			]
+		},
+		"peanut": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/peanut"
+			]
+		},
+		"peanut_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/peanut_bush"
+			]
+		},
+		"pear": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/pear"
+			]
+		},
+		"pear_sapling": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/pear_sapling"
+			]
+		},
+		"peashooter_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/peashooter_bush"
+			]
+		},
+		"peashooter": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/peashooter"
+			]
+		},
+		"persimmon": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/persimmon"
+			]
+		},
+		"persimmon_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/persimmon_bush"
+			]
+		},
+		"pineapple": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/pineapple"
+			]
+		},
+		"pineapple_plant": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/pineapple_plant"
+			]
+		},
+		"pistachio": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/pistachio"
+			]
+		},
+		"pistachio_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/pistachio_bush"
+			]
+		},
+		"plum": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/plum"
+			]
+		},
+		"plum_sapling": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/plum_sapling"
+			]
+		},
+		"pomegranate": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/pomegranate"
+			]
+		},
+		"pomegranate_sapling": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/pomegranate_sapling"
+			]
+		},
+		"radish": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/radish"
+			]
+		},
+		"radish_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/radish_bush"
+			]
+		},
+		"rainbow_fruits": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/rainbow_fruits"
+			]
+		},
+		"rainbow_fruits_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/rainbow_fruits_bush"
+			]
+		},
+		"raspberry": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/raspberry"
+			]
+		},
+		"raspberry_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/raspberry_bush"
+			]
+		},
+		"red_bell_pepper": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/red_bell_pepper"
+			]
+		},
+		"red_bell_pepper_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/red_bell_pepper_bush"
+			]
+		},
+		"red_cabbage": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/red_cabbage"
+			]
+		},
+		"red_cabbage_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/red_cabbage_bush"
+			]
+		},
+		"red_corn": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/red_corn"
+			]
+		},
+		"red_corn_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/red_corn_bush"
+			]
+		},
+		"strawberry": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/strawberry"
+			]
+		},
+		"strawberry_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/strawberry_bush"
+			]
+		},
+		"sunflower_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/sunflower_bush"
+			]
+		},
+		"sunflower": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/sunflower"
+			]
+		},
+		"sweet_potato": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/sweet_potato"
+			]
+		},
+		"sweet_potato_plant": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/sweet_potato_plant"
+			]
+		},
+		"tea_leaf": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/tea_leaf"
+			]
+		},
+		"tea_leaf_plant": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/tea_leaf_plant"
+			]
+		},
+		"tequila": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/tequila"
+			]
+		},
+		"tequila_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/tequila_bush"
+			]
+		},
+		"tomato": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/tomato"
+			]
+		},
+		"tomato_plant": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/tomato_plant"
+			]
+		},
+		"tree_mushroom": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/tree_mushroom"
+			]
+		},
+		"tree_mushroom_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/tree_mushroom_bush"
+			]
+		},
+		"tumbleweed": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/tumbleweed"
+			]
+		},
+		"tumbleweed_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/tumbleweed_bush"
+			]
+		},
+		"walnut": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/walnut"
+			]
+		},
+		"walnut_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/walnut_bush"
+			]
+		},
+		"white_radish": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/white_radish"
+			]
+		},
+		"white_radish_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/white_radish_bush"
+			]
+		},
+		"wine_fruit": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/wine_fruit"
+			]
+		},
+		"wine_fruit_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/wine_fruit_bush"
+			]
+		},
+		"yummy_fruit": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/yummy_fruit"
+			]
+		},
+		"yummy_fruit_bush": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/yummy_fruit_bush"
 			]
 		},
 		"battery": {
