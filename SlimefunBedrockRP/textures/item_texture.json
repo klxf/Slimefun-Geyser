@@ -1199,7 +1199,7 @@
 		},
 		"elderberry_jelly_sandwich": {
 			"textures": [
-				"textures/items/exotic_garden/foods/elderberry_sandwich"
+				"textures/items/exotic_garden/foods/elderberry_jelly_sandwich"
 			]
 		},
 		"elderberry_pie": {
@@ -1432,9 +1432,9 @@
 				"textures/items/exotic_garden/foods/sandwich"
 			]
 		},
-		"blt_sandwich": {
+		"blt": {
 			"textures": [
-				"textures/items/exotic_garden/foods/blt_sandwich"
+				"textures/items/exotic_garden/foods/blt"
 			]
 		},
 		"leafy_chicken_sandwich": {
@@ -1602,19 +1602,19 @@
 				"textures/items/exotic_garden/foods/hot_dog"
 			]
 		},
-		"hot_dog_bacon_wrapped_cheese_filled": {
+		"bacon_wrapped_cheese_filled_hot_dog": {
 			"textures": [
-				"textures/items/exotic_garden/foods/hot_dog_bacon_wrapped_cheese_filled"
+				"textures/items/exotic_garden/foods/bacon_wrapped_cheese_filled_hot_dog"
 			]
 		},
-		"hot_dog_bbq_bacon_wrapped": {
+		"bbq_bacon_wrapped_hot_dog": {
 			"textures": [
 				"textures/items/exotic_garden/foods/hot_dog_bbq_bacon_wrapped"
 			]
 		},
-		"hot_dog_bbq_double_bacon_wrapped_in_a_tortilla_with_cheese": {
+		"bbq_double_bacon_wrapped_hot_dog_in_a_tortilla_with_cheese": {
 			"textures": [
-				"textures/items/exotic_garden/foods/hot_dog_bbq_double_bacon_wrapped_in_a_tortilla_with_cheese"
+				"textures/items/exotic_garden/foods/bbq_double_bacon_wrapped_hot_dog_in_a_tortilla_with_cheese"
 			]
 		},
 		"chocolate_strawberry": {
@@ -2067,6 +2067,11 @@
 				"textures/items/exotic_garden/fruits/chomper_bush"
 			]
 		},
+		"chomper": {
+			"textures": [
+				"textures/items/exotic_garden/fruits/chomper"
+			]
+		},
 		"cilantro": {
 			"textures": [
 				"textures/items/exotic_garden/fruits/cilantro"
@@ -2129,12 +2134,12 @@
 		},
 		"curry_leaf": {
 			"textures": [
-				"textures/items/exotic_garden/fruits/curry_leaf_plant"
+				"textures/items/exotic_garden/fruits/curry_leaf"
 			]
 		},
 		"curry_leaf_bush": {
 			"textures": [
-				"textures/items/exotic_garden/fruits/curry_leaf_plant_bush"
+				"textures/items/exotic_garden/fruits/curry_leaf_bush"
 			]
 		},
 		"demon_melon": {

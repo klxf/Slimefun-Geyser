@@ -78,7 +78,7 @@
 				"texture_size": 16
 			},
 			{
-				"name": "blt_sandwich",
+				"name": "blt",
 				"custom_model_data": 2200884,
 				"texture_size": 16
 			},
@@ -318,17 +318,17 @@
 				"texture_size": 16
 			},
 			{
-				"name": "hot_dog_bacon_wrapped_cheese_filled",
+				"name": "bacon_wrapped_cheese_filled_hot_dog",
 				"custom_model_data": 2200933,
 				"texture_size": 16
 			},
 			{
-				"name": "hot_dog_bbq_bacon_wrapped",
+				"name": "bbq_bacon_wrapped_hot_dog",
 				"custom_model_data": 2200934,
 				"texture_size": 16
 			},
 			{
-				"name": "hot_dog_bbq_double_bacon_wrapped_in_a_tortilla_with_cheese",
+				"name": "bbq_double_bacon_wrapped_hot_dog_in_a_tortilla_with_cheese",
 				"custom_model_data": 2200935,
 				"texture_size": 16
 			},
