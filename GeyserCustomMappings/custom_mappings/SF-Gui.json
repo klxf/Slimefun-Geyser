@@ -71,6 +71,32 @@
 				"custom_model_data": 2200010,
 				"texture_size": 16
 			}
+		],
+		"minecraft:cyan_stained_glass_pane": [
+			{
+				"name": "input_slot",
+				"custom_model_data": 2500003,
+				"texture_size": 16
+			}
+		],
+		"minecraft:orange_stained_glass_pane": [
+			{
+				"name": "output_slot",
+				"custom_model_data": 2500004,
+				"texture_size": 16
+			}
+		],
+		"minecraft:barrier": [
+			{
+				"name": "no_permission",
+				"custom_model_data": 2500001,
+				"texture_size": 16
+			},
+			{
+				"name": "not_researched",
+				"custom_model_data": 2500002,
+				"texture_size": 16
+			}
 		]
 	}
 }

@@ -52,6 +52,26 @@
 				"textures/items/gui/next_off"
 			]
 		},
+		"input_slot": {
+			"textures": [
+				"textures/items/gui/input_slot"
+			]
+		},
+		"output_slot": {
+			"textures": [
+				"textures/items/gui/output_slot"
+			]
+		},
+		"no_permission": {
+			"textures": [
+				"textures/items/gui/no_permission"
+			]
+		},
+		"not_researched": {
+			"textures": [
+				"textures/items/gui/not_researched"
+			]
+		},
 		"gps_transmitter": {
 			"textures": [
 				"textures/items/gps/gps_transmitter"
@@ -2902,9 +2922,14 @@
 				"textures/items/exotic_garden/plants/netherite_plant"
 			]
 		},
+		"crook": {
+			"textures": [
+				"textures/items/exotic_garden/misc/crook"
+			]
+		},
 		"oak_chest": {
 			"textures": [
-				"textures/items/exotic_garden/plants/oak_chest"
+				"textures/items/private_storage/oak_chest"
 			]
 		},
 		"birch_chest": {
