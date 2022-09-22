@@ -19,7 +19,7 @@ jobs:
       
       - name: 打包 Geyser Mappings
         run: |
-          cd ./GeyserCustomMappings
+          cd ./GeyserCustomMappings/custom_mappings
           zip -r mappings.zip ./*
           cd ../
         
@@ -29,4 +29,5 @@ jobs:
           name: SlimefunBedrockRP
           path: |
             ./SlimefunBedrockRP/SlimefunBedrockRP.mcpack
-            ./GeyserCustomMappings/mappings.zip
+            ./GeyserCustomMappings/custom_mappings/mappings.zip
+            ./GeyserCustomMappings/item-models.yml
