@@ -1148,6 +1148,11 @@
 				"name": "wine",
 				"custom_model_data": 2200871,
 				"texture_size": 16
+			},
+			{
+				"name": "ice_cola",
+				"custom_model_data": 2201191,
+				"texture_size": 16
 			}
 		],
 		"minecraft:golden_carrot": [

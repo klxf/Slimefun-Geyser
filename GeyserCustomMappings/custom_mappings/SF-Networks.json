@@ -1,0 +1,57 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:lime_dye": [
+			{
+				"name": "synthetic_emerald_shard",
+				"custom_model_data": 2201600,
+				"texture_size": 16
+			}
+		],
+		"minecraft:glass": [
+			{
+				"name": "optic_glass",
+				"custom_model_data": 2201601,
+				"texture_size": 16
+			}
+		],
+		"minecraft:string": [
+			{
+				"name": "optic_cable",
+				"custom_model_data": 2201602,
+				"texture_size": 16
+			}
+		],
+		"minecraft:nether_star":[
+			{
+				"name": "optic_star",
+				"custom_model_data": 2201603,
+				"texture_size": 16
+			},
+			{
+				"name": "radioactive_optic_star",
+				"custom_model_data": 2201604,
+				"texture_size": 16
+			}
+		],
+		"minecraft:piston":[
+			{
+				"name": "shrinking_base",
+				"custom_model_data": 2201605,
+				"texture_size": 16
+			}
+		],
+		"minecraft:melon_seeds":[
+			{
+				"name": "simple_nanobots",
+				"custom_model_data": 2201606,
+				"texture_size": 16
+			},
+			{
+				"name": "advanced_nanobots",
+				"custom_model_data": 2201607,
+				"texture_size": 16
+			}
+		]
+	}
+}

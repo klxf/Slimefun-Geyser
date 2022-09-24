@@ -72,6 +72,11 @@
 				"textures/items/gui/not_researched"
 			]
 		},
+		"none": {
+			"textures": [
+				"textures/items/gui/none"
+			]
+		},
 		"gps_transmitter": {
 			"textures": [
 				"textures/items/gps/gps_transmitter"
@@ -1912,6 +1917,11 @@
 				"textures/items/exotic_garden/drinks/hot_chocolate"
 			]
 		},
+		"ice_cola": {
+			"textures": [
+				"textures/items/exotic_garden/drinks/ice_cola"
+			]
+		},
 		"pinacolada": {
 			"textures": [
 				"textures/items/exotic_garden/drinks/pinacolada"
@@ -3172,9 +3182,49 @@
 				"textures/items/hotbar_pets/hotbar_pet_walshrus"
 			]
 		},
-		"": {
+		"hotbar_pet_eyamaz": {
 			"textures": [
 				"textures/items/hotbar_pets/hotbar_pet_eyamaz"
+			]
+		},
+		"synthetic_emerald_shard": {
+			"textures": [
+				"textures/items/networks/synthetic_emerald_shard"
+			]
+		},
+		"optic_glass": {
+			"textures": [
+				"textures/items/networks/optic_glass"
+			]
+		},
+		"optic_cable": {
+			"textures": [
+				"textures/items/networks/optic_cable"
+			]
+		},
+		"optic_star": {
+			"textures": [
+				"textures/items/networks/optic_star"
+			]
+		},
+		"radioactive_optic_star": {
+			"textures": [
+				"textures/items/networks/radioactive_optic_star"
+			]
+		},
+		"shrinking_base": {
+			"textures": [
+				"textures/items/networks/shrinking_base"
+			]
+		},
+		"simple_nanobots": {
+			"textures": [
+				"textures/items/networks/simple_nanobots"
+			]
+		},
+		"advanced_nanobots": {
+			"textures": [
+				"textures/items/networks/advanced_nanobots"
 			]
 		},
 		"battery": {
