@@ -865,17 +865,17 @@
 			{
 				"name": "peashooter",
 				"custom_model_data": 2201145,
-				"texture_size": 16
+				"texture_size": 32
 			},
 			{
 				"name": "sunflower",
 				"custom_model_data": 2201147,
-				"texture_size": 16
+				"texture_size": 32
 			},
 			{
 				"name": "chomper",
 				"custom_model_data": 2201149,
-				"texture_size": 16
+				"texture_size": 32
 			},
 			{
 				"name": "red_corn",
